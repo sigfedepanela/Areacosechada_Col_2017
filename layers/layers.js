@@ -31,11 +31,11 @@ jsonSource_AreaCosechadadeCaaPaneleraHa2017_1.addFeatures(features_AreaCosechada
                 source:jsonSource_AreaCosechadadeCaaPaneleraHa2017_1, 
                 style: style_AreaCosechadadeCaaPaneleraHa2017_1,
     title: 'Area Cosechada de Caña Panelera (Ha) -2017<br />\
-    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_0.png" />  535.0 - 7620.6 <br />\
-    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_1.png" />  7620.6 - 14706.2 <br />\
-    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_2.png" />  14706.2 - 21791.8 <br />\
-    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_3.png" />  21791.8 - 28877.4 <br />\
-    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_4.png" />  28877.4 - 35963.0 <br />'
+    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_0.png" />  535 - 7621 <br />\
+    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_1.png" />  7621 - 14706 <br />\
+    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_2.png" />  14706 - 21792 <br />\
+    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_3.png" />  21792 - 28877 <br />\
+    <img src="styles/legend/AreaCosechadadeCaaPaneleraHa2017_1_4.png" />  28877 - 35963 <br />'
         });
 
 lyr_LimiteDepartamental_0.setVisible(true);lyr_AreaCosechadadeCaaPaneleraHa2017_1.setVisible(true);
